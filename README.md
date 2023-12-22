@@ -24,4 +24,4 @@ The model will predict the sleep disorder's presence through these factors:
 * 
 
 ## ML MODEL
-* 
+* [Hasil Model](https://drive.google.com/drive/folders/1AJXgRS_jEuvTWCfL3uJfKJeip8ygq7st?usp=drive_link)
