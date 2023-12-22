@@ -10,7 +10,7 @@ Natural language processing (NLP) and Sistem Pakar
 * Spreadsheet
 
 ## DATASET
-[Here is the dataset that we used to build our model] (https://drive.google.com/drive/folders/12SZGQx1p_tE_FGExdOR1s6-IjS9iwsO-)
+[Here is the dataset that we used to build our model](https://drive.google.com/drive/folders/12SZGQx1p_tE_FGExdOR1s6-IjS9iwsO-)
 
 ## ML MODEL
 * [Hasil Model](https://drive.google.com/drive/folders/1AJXgRS_jEuvTWCfL3uJfKJeip8ygq7st?usp=drive_link)
